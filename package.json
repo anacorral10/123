@@ -1,5 +1,5 @@
 {
-  "name": "arcade-game",
+  "name": "Arcade-Game",
   "version": "1.0.0",
   "description": "This Classic Frogger Game project is made as part of Front-End Nanodegree by Udacity, in order to practice object-oriented programming concepts.",
   "main": "index.js",
@@ -7,7 +7,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "homepage": "https://anacorral10.github.io/arcade-game",
+  "homepage": "https://anacorral10.github.io/Arcade-Game",
   "author": "Anastasia Corrales",
   "license": "ISC",
   "dependencies": {

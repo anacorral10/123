@@ -1,5 +1,5 @@
 {
-  "name": "Arcade-Game",
+  "name": "frontend-nanodegree-arcade-game-master",
   "version": "1.0.0",
   "description": "This Classic Frogger Game project is made as part of Front-End Nanodegree by Udacity, in order to practice object-oriented programming concepts.",
   "main": "index.js",

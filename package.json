@@ -7,7 +7,7 @@
     "deploy": "gh-pages -d dist"
   },
   "keywords": [],
-  "homepage": "https://anacorral10.github.io/Arcade-Game",
+  "homepage": "https://anacorral10.github.io/arcade-game",
   "author": "Anastasia Corrales",
   "license": "ISC",
   "dependencies": {

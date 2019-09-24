@@ -1,8 +1,6 @@
 # Classic Arcade Game Frogger Project
 An HTML5 Canvas powered arcade game, developed using the best practices in Object Oriented JavaScript. The objective is to move your player across the road and reach water without being touched by enemy Bugs to win!
 
-## Table of Contents
-
 ## How to Play 
 1. Fork the game from Github or download the zip file.
 2. If downloading the zip file unzip it.
